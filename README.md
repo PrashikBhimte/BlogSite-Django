@@ -28,6 +28,16 @@ blog_project/ ├── blog/ # Main app │ ├── models.py # BlogPost mode
 
 ---
 
+
+🧠 What I Learned
+Django project and app setup
+
+Django models, views, and templates (MVT)
+
+URL routing and database interaction
+
+Admin interface and CRUD operations
+
 ## 📦 How to Run
 
 1. Clone this repository:
@@ -45,14 +55,3 @@ python manage.py migrate
 python manage.py runserver
 
 4.Access the app at http://127.0.0.1:8000/.
-
----
-
-🧠 What I Learned
-Django project and app setup
-
-Django models, views, and templates (MVT)
-
-URL routing and database interaction
-
-Admin interface and CRUD operations
